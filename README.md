@@ -52,22 +52,24 @@ b. break
 
 ### Jawaban dan Penjelasan
 1. Pada soal ini kita diminta untuk membuat perulangan sebanyak 100 kali, namun pada saat variabel mencapai input ke-9 maka variabel tersebut akan perpindah dari sebelumnya data integer menjadi String(yourname) dan melanjutkan perulangan hingga mencapai 100 input. Untuk menjawab soal tersebut maka diperlukan metode perulangan(looping) serta 2 jenis data yaitu integer dan String. Berikut langkah-langkah dari program tersebut:
+Langkah 1 : yaitu membuat class dan menentukan class dari program yang akan kita buat.
+langkah 2 : membuat variabel integer dan String dari program yang akan kita tentukan selanjutnya.
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Ilustrasi_Coding/1.1.png?raw=true)
+
+
+
+3. Pada soal ini kita diberikan perintah untuk membuat perulangan while namun menggunakan percabangan if else. Berikut adalah langkah-langkah penyelesainnya:
 
 
 
 
-2. Pada soal ini kita diberikan perintah untuk membuat perulangan while namun menggunakan percabangan if else. Berikut adalah langkah-langkah penyelesainnya:
+
+4. Pada soal no 3 kita akan membuat sebuah pemograman zodiak. Cara yang paling mudah untuk membuat program tersebut adalah menggunakan percabangan. Berikut adalah langkah-langkah pemrograman zodiak menggunakan percabangan:
 
 
 
 
-
-3. Pada soal no 3 kita akan membuat sebuah pemograman zodiak. Cara yang paling mudah untuk membuat program tersebut adalah menggunakan percabangan. Berikut adalah langkah-langkah pemrograman zodiak menggunakan percabangan:
-
-
-
-
-4. Pada soal no 4 kita akan membuat sebuah jenis data array, namun semua input data tersebut akan tampil dengan menggunakan perulangan for. Berikut adalah langkah-langkah penyelesaian dari program array dengan perulangan for:
+5. Pada soal no 4 kita akan membuat sebuah jenis data array, namun semua input data tersebut akan tampil dengan menggunakan perulangan for. Berikut adalah langkah-langkah penyelesaian dari program array dengan perulangan for:
 
 
 
