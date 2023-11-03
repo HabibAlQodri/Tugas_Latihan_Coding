@@ -20,19 +20,16 @@ Berikut adalah jenis data yang digunakan dalam menjawab soal-soal di atas sebaga
 - Perulangan(looping), adalah metode yang digunakan untuk menjalankan suatu program agar dapat mengulang suatu varibel data secara berulang kali. Perulangan(looping) yang digunakan dalam menjawab soal-soal di atas adalah sebagai berikut:
   
 a. While loop
-
 b. for loop
 
 - Percabangan, digunakan untuk mempercabangkan tiap variabel, supaya dapat dipanggil spesifik data apa yang diinput ke dalam program. percabangan yang digunakan dalam program tersebut adalah:
   
 a. if
-
 b. if else
 
 - pernyataan khusus, digunakan untuk memberikan batasan dalam perulangan maupun percabangan supaya program tersebut tidak berjalan secara terus menerus. pernyataan khusus yang digunakan adalahs sebagai berikut:
   
 a. try and catch
-
 b. break
 
 
