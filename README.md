@@ -137,7 +137,7 @@ Langkah 1 : Membuat class dan sistem java yang akan kita program.
 
 Langkah 2 : Menentukan variabel array yang akan kita masukan inputnya.
 
-Langkah 3 : membuat data integer dari array sebelumnya.
+Langkah 3 : membuat data double dari array sebelumnya.
 
 Gambar coding : 
 
