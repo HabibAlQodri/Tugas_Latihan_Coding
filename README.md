@@ -53,17 +53,25 @@ b. break
 ### Jawaban dan Penjelasan
 1. Pada soal ini kita diminta untuk membuat perulangan sebanyak 100 kali, namun pada saat variabel mencapai input ke-9 maka variabel tersebut akan perpindah dari sebelumnya data integer menjadi String(yourname) dan melanjutkan perulangan hingga mencapai 100 input. Untuk menjawab soal tersebut maka diperlukan metode perulangan(looping) serta 2 jenis data yaitu integer dan String. Berikut langkah-langkah dari program tersebut:
 
-Langkah 1 : yaitu membuat class dan menentukan class dari program yang akan kita buat.
+Langkah 1 : Membuat class dan menentukan class dari program yang akan kita buat.
 
-langkah 2 : membuat variabel integer dan String dari program yang akan kita tentukan selanjutnya.
+Langkah 2 : Menentukan variabel integer dan String dari program yang akan kita tentukan selanjutnya.
 
+Langkah 3 : Melakukan perulangan dari program yang telah diminta.
+            penjelasan dari perulangan tersebut ada pada gambar.
+            
 ![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Ilustrasi_Coding/1.1.png?raw=true)
 
+Langkah 4 : Mengakhiri looping yang telah dilakukan.
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Ilustrasi_Coding/1.2.png?raw=true)
+
+Hasil program : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Ilustrasi_Coding/hasil_1.png?raw=true)
 
 
 3. Pada soal ini kita diberikan perintah untuk membuat perulangan while namun menggunakan percabangan if else. Berikut adalah langkah-langkah penyelesainnya:
-
-
 
 
 
