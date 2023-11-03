@@ -54,6 +54,7 @@ b. break
 1. Pada soal ini kita diminta untuk membuat perulangan sebanyak 100 kali, namun pada saat variabel mencapai input ke-9 maka variabel tersebut akan perpindah dari sebelumnya data integer menjadi String(yourname) dan melanjutkan perulangan hingga mencapai 100 input. Untuk menjawab soal tersebut maka diperlukan metode perulangan(looping) serta 2 jenis data yaitu integer dan String. Berikut langkah-langkah dari program tersebut:
 
 a. Langkah 1 : yaitu membuat class dan menentukan class dari program yang akan kita buat.
+
 b. langkah 2 : membuat variabel integer dan String dari program yang akan kita tentukan selanjutnya.
 
 ![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Ilustrasi_Coding/1.1.png?raw=true)
