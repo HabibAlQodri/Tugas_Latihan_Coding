@@ -18,20 +18,27 @@ Berikut adalah jenis data yang digunakan dalam menjawab soal-soal di atas sebaga
 
 ### Metode yang Digunakan
 - Perulangan(looping), adalah metode yang digunakan untuk menjalankan suatu program agar dapat mengulang suatu varibel data secara berulang kali. Perulangan(looping) yang digunakan dalam menjawab soal-soal di atas adalah sebagai berikut:
+  
 a. While loop
+
 b. for loop
 
 - Percabangan, digunakan untuk mempercabangkan tiap variabel, supaya dapat dipanggil spesifik data apa yang diinput ke dalam program. percabangan yang digunakan dalam program tersebut adalah:
+  
 a. if
+
 b. if else
 
 - pernyataan khusus, digunakan untuk memberikan batasan dalam perulangan maupun percabangan supaya program tersebut tidak berjalan secara terus menerus. pernyataan khusus yang digunakan adalahs sebagai berikut:
+  
 a. try and catch
+
 b. break
 
 
 ### Soal
  1.  Buatlah perulangan hingga 100 menggunakan Java dengan output sebagai berikut:
+    
     1
     2
     3
@@ -45,10 +52,10 @@ b. break
     (Your Name)
     (Your Name)
 
-2.  Buatlah program bebas, dengan menerapkan if else dalam perulangan while.
+3.  Buatlah program bebas, dengan menerapkan if else dalam perulangan while.
 
-3. Buatlah program zodiac dengan menggunakan fitur input dengan hasil menampilkan zodiac sesuai dengan tanggal lahir yang diinputkan.
-4. Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for.
+4. Buatlah program zodiac dengan menggunakan fitur input dengan hasil menampilkan zodiac sesuai dengan tanggal lahir yang diinputkan.
+5. Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for.
 
 ### Jawaban dan Penjelasan
 1. Pada soal ini kita diminta untuk membuat perulangan sebanyak 100 kali, namun pada saat variabel mencapai input ke-9 maka variabel tersebut akan perpindah dari sebelumnya data integer menjadi String(yourname) dan melanjutkan perulangan hingga mencapai 100 input. Untuk menjawab soal tersebut maka diperlukan metode perulangan(looping) serta 2 jenis data yaitu integer dan String. Berikut langkah-langkah dari program tersebut:
