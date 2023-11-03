@@ -70,7 +70,7 @@ Langkah 4 : Mengakhiri looping yang telah dilakukan.
 
 Hasil program : 
 
-![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/hasil.1.png?raw=true)
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/hasil_1.png?raw=true)
 
 
 2. Pada soal ini kita diberikan perintah untuk membuat perulangan while namun menggunakan percabangan if else. Berikut adalah langkah-langkah penyelesainnya:
@@ -93,7 +93,7 @@ Gambar coding:
 
 Hasil : 
 
-![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil.2.png?raw=true)
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil_2.png?raw=true)
 
 
 3. Pada soal no 3 kita akan membuat sebuah pemograman zodiak. Cara yang paling mudah untuk membuat program tersebut adalah menggunakan percabangan. Berikut adalah langkah-langkah pemrograman zodiak menggunakan percabangan:
@@ -122,7 +122,7 @@ Gambar Coding :
 
 Hasil : 
 
-![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil.3.png?raw=true)
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil_3.png?raw=true)
 
 
 4. Pada soal no 4 kita akan membuat sebuah jenis data array, namun semua input data tersebut akan tampil dengan menggunakan perulangan for. Berikut adalah langkah-langkah penyelesaian dari program array dengan perulangan for:
@@ -141,7 +141,7 @@ Langkah 4 : Membuat looping for pada variabel tersebut.
 
 Hasil : 
 
-![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil.4.png?raw=true)
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil_4.png?raw=true)
 
 ### Kesimpulan
 Dari soal-soal yang telah diberikan, kita dapat memahami dan berlatih bagaimana cara melakukan pemrograman sederhana yaitu perulangan, percabangan serta array. Dengan memperbanyak latihan kita dapat terbiasa dan akan lancar dalam mempelajari algoritma dari suatu pemrograman.
