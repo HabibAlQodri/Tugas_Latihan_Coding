@@ -60,29 +60,88 @@ Langkah 2 : Menentukan variabel integer dan String dari program yang akan kita t
 Langkah 3 : Melakukan perulangan dari program yang telah diminta.
             penjelasan dari perulangan tersebut ada pada gambar.
             
-![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Ilustrasi_Coding/1.1.png?raw=true)
+Gambar Coding : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/1.1.png?raw=true)
 
 Langkah 4 : Mengakhiri looping yang telah dilakukan.
 
-![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Ilustrasi_Coding/1.2.png?raw=true)
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/1.2.png?raw=true)
 
 Hasil program : 
 
-![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Ilustrasi_Coding/hasil_1.png?raw=true)
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/hasil.1.png?raw=true)
 
 
-3. Pada soal ini kita diberikan perintah untuk membuat perulangan while namun menggunakan percabangan if else. Berikut adalah langkah-langkah penyelesainnya:
+2. Pada soal ini kita diberikan perintah untuk membuat perulangan while namun menggunakan percabangan if else. Berikut adalah langkah-langkah penyelesainnya:
+
+Langkah 1 : Membuat class dari program yang akan kita buat.
+
+Langkah 2 : Menentukan variabel integer dan boolean yang akan kita input ke dalam program.
+
+Langkah 3 : Membuat suatu Scanner agar kita dapat memasukan input.
+
+Gambar coding : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/2.1.png?raw=true)
+
+Langkah 4 : Menghentikan looping dengan menggunakan break.
+
+Gambar coding:
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/2.2.png?raw=true)
+
+Hasil : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil.2.png?raw=true)
 
 
+3. Pada soal no 3 kita akan membuat sebuah pemograman zodiak. Cara yang paling mudah untuk membuat program tersebut adalah menggunakan percabangan. Berikut adalah langkah-langkah pemrograman zodiak menggunakan percabangan:
 
-4. Pada soal no 3 kita akan membuat sebuah pemograman zodiak. Cara yang paling mudah untuk membuat program tersebut adalah menggunakan percabangan. Berikut adalah langkah-langkah pemrograman zodiak menggunakan percabangan:
+Langkah 1 : Membuat class dan sistem dari program yang akan kita buat.
+
+Langkah 2 : Menentukan integer dan percabangan yang akan kita lakukan.
+
+Langkah 3 : Memasukan semua input data bulan-bulan yang ada pada tanggal.
+
+Gambar coding : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/3.1.png?raw=true)
+
+Langkah 4 : Memasukan input zodiak sesuai dengan tanggal dari tiap bulan.
+
+Gambar coding : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/3.2.png?raw=true)
+
+Langkah 5 : Menghentikan percabangan yang telah dilakukan.
+
+Gambar Coding : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/3.3.png?raw=true)
+
+Hasil : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil.3.png?raw=true)
 
 
+4. Pada soal no 4 kita akan membuat sebuah jenis data array, namun semua input data tersebut akan tampil dengan menggunakan perulangan for. Berikut adalah langkah-langkah penyelesaian dari program array dengan perulangan for:
 
+Langkah 1 : Membuat class dan sistem java yang akan kita program.
 
-5. Pada soal no 4 kita akan membuat sebuah jenis data array, namun semua input data tersebut akan tampil dengan menggunakan perulangan for. Berikut adalah langkah-langkah penyelesaian dari program array dengan perulangan for:
+Langkah 2 : Menentukan variabel array yang akan kita masukan inputnya.
 
+Langkah 3 : membuat data integer dari array sebelumnya.
 
+Gambar coding : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/4.1.png?raw=true)
+
+Langkah 4 : Membuat looping for pada variabel tersebut.
+
+Hasil : 
+
+![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil.4.png?raw=true)
 
 ### Kesimpulan
 Dari soal-soal yang telah diberikan, kita dapat memahami dan berlatih bagaimana cara melakukan pemrograman sederhana yaitu perulangan, percabangan serta array. Dengan memperbanyak latihan kita dapat terbiasa dan akan lancar dalam mempelajari algoritma dari suatu pemrograman.
