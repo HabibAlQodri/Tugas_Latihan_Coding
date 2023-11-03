@@ -73,6 +73,8 @@ Hasil program :
 ![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/hasil_1.png?raw=true)
 
 
+
+
 2. Pada soal ini kita diberikan perintah untuk membuat perulangan while namun menggunakan percabangan if else. Berikut adalah langkah-langkah penyelesainnya:
 
 Langkah 1 : Membuat class dari program yang akan kita buat.
@@ -94,6 +96,8 @@ Gambar coding:
 Hasil : 
 
 ![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil_2.png?raw=true)
+
+
 
 
 3. Pada soal no 3 kita akan membuat sebuah pemograman zodiak. Cara yang paling mudah untuk membuat program tersebut adalah menggunakan percabangan. Berikut adalah langkah-langkah pemrograman zodiak menggunakan percabangan:
@@ -123,6 +127,8 @@ Gambar Coding :
 Hasil : 
 
 ![alt text](https://github.com/HabibAlQodri/Tugas_Latihan_Coding/blob/main/Tugas_Coding/Ilustrasi_Coding/Hasil_3.png?raw=true)
+
+
 
 
 4. Pada soal no 4 kita akan membuat sebuah jenis data array, namun semua input data tersebut akan tampil dengan menggunakan perulangan for. Berikut adalah langkah-langkah penyelesaian dari program array dengan perulangan for:
