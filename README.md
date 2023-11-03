@@ -52,10 +52,10 @@ Berikut adalah jenis data yang digunakan dalam menjawab soal-soal di atas sebaga
     (Your Name)
     (Your Name)
 
-3.  Buatlah program bebas, dengan menerapkan if else dalam perulangan while.
+2.  Buatlah program bebas, dengan menerapkan if else dalam perulangan while.
 
-4. Buatlah program zodiac dengan menggunakan fitur input dengan hasil menampilkan zodiac sesuai dengan tanggal lahir yang diinputkan.
-5. Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for.
+3. Buatlah program zodiac dengan menggunakan fitur input dengan hasil menampilkan zodiac sesuai dengan tanggal lahir yang diinputkan.
+4. Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for.
 
 ### Jawaban dan Penjelasan
 1. Pada soal ini kita diminta untuk membuat perulangan sebanyak 100 kali, namun pada saat variabel mencapai input ke-9 maka variabel tersebut akan perpindah dari sebelumnya data integer menjadi String(yourname) dan melanjutkan perulangan hingga mencapai 100 input. Untuk menjawab soal tersebut maka diperlukan metode perulangan(looping) serta 2 jenis data yaitu integer dan String. Berikut langkah-langkah dari program tersebut:
